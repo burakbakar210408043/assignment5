@@ -1,4 +1,5 @@
 # Assignment 5 - Simple Product Dashboard
+Name: Burak Bakar-210408043
 
 ## File Organization
 - `src/App.jsx`: Root component. Manages `showProducts` and `name` state. Renders the heading, toggle button, controlled input, greeting text, and conditionally renders `ProductList`.
